@@ -1,6 +1,13 @@
 --> Requirements: Windows 7/7+, Python 3.0+, Internet Connection(for opening webpages and Edith voice commands)
 --> Run config_user.py else get stuck in errors
---> It only takes audio input (run edith2.py for text input)
+
+v2.0
+--> It only takes text input
+
+v3.0
+--> It only takes audio input
+
+
 --> Edith v4.0 under development (with hybrid audio/text inputs)
 --> Suggest me some more features in Edith
 --> Right Click in the terminal to paste the links/directories
