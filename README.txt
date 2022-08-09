@@ -3,7 +3,7 @@
 --> Changelog:
     
     --> v2.0 :
-        -> Added total support to all Windows PCs
+        -> Added total support to all Windows PCs(Windows 7/7+)
         -> Only Text input with Audio Output and limited functionalities
     --> v3.0 :
         -> Swapped text input to speech input
